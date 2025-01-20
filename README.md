@@ -16,16 +16,18 @@ A Flutter-based application designed to help users track and visualize their dai
 
 | ![Home Screen](screenshots/Screenshot1.png) | ![Add Habit Page](screenshots/Screenshot2.png) | ![Statistics](screenshots/Screenshot3.png) |
 |:------------------------------------------:|:--------------------------------------------:|:--------------------------------------:|
-|         **Home Screen**                    |         **Add Habit Page**                   |        **Statistics Page**            |
+|         **Splash Screen**                    |         **Home Screen**                   |        **Add Habit Page**            |
 
 | ![Theme Settings](screenshots/Screenshot4.png) | ![Habit Summary](screenshots/Screenshot5.png) | ![Icon Picker](screenshots/Screenshot6.png) |
 |:--------------------------------------------:|:--------------------------------------------:|:------------------------------------------:|
-| **Theme Settings**                          | **Habit Summary**                           | **Icon Picker**                          |
+| **Theme Settings && Habit Summary**                          | **Habit Summary**                           | **Other Theme**                          |
 
 ## Demo Video
 
-Check out the demo of the app in action:  
-[Demo Video]()
+Check out the demo of the app in action:
+
+https://github.com/user-attachments/assets/2016d062-8895-4355-ae65-bd91ffdb34ea
+
 
 ## Installation
 
